@@ -1,0 +1,6 @@
+[webserver]
+node1
+node2
+
+[prod]
+10.169.43.131
